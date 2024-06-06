@@ -1,1 +1,2 @@
-# cobain
+#include <iostream>
+using namespace std;
